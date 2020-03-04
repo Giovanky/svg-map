@@ -1,0 +1,20 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-c99" viewBox="0 0 32 32">
+<title>c99</title>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.5888" d="M29.296 15.965c0 7.324-6.015 13.261-13.435 13.261s-13.435-5.937-13.435-13.261c0-7.324 6.015-13.261 13.435-13.261s13.435 5.937 13.435 13.261z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.5888" d="M16.868 14.716c0 2.109-0.435 3.818-0.972 3.818s-0.972-1.709-0.972-3.818c0-2.108 0.435-3.818 0.972-3.818s0.972 1.709 0.972 3.818z"></path>
+</symbol>
+<symbol id="icon-g88" viewBox="0 0 32 32">
+<title>g88</title>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.4629" d="M15.723 2.419c-7.656 0-13.863 6.047-13.863 13.507v0c0.004 4.535 2.301 8.546 5.822 10.993l0.042 0.028c0.561-5.634 3.83-9.914 7.782-9.921h0.001c4.019 0.008 7.332 4.432 7.803 10.141l0.004 0.055c3.799-2.448 6.271-6.59 6.273-11.296v-0c0-7.459-6.207-13.507-13.863-13.507h-0z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.4629" d="M17.745 10.507c0 1.605-1.228 2.905-2.744 2.905s-2.744-1.301-2.744-2.905c0-1.605 1.228-2.905 2.744-2.905s2.744 1.301 2.744 2.905z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.4629" d="M17.745 24.878c0 1.995-1.034 3.612-2.311 3.612s-2.311-1.617-2.311-3.612c0-1.995 1.034-3.612 2.311-3.612s2.311 1.617 2.311 3.612z"></path>
+</symbol>
+<symbol id="icon-p11" viewBox="0 0 32 32">
+<title>p11</title>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M28.182 15.41c0 6.517-5.33 11.8-11.905 11.8s-11.905-5.283-11.905-11.8c0-6.517 5.33-11.8 11.905-11.8s11.905 5.283 11.905 11.8z"></path>
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.6" d="M20.269 15.514c0 2.166-1.694 3.922-3.783 3.922s-3.783-1.756-3.783-3.922c0-2.166 1.694-3.922 3.783-3.922s3.783 1.756 3.783 3.922z"></path>
+</symbol>
+</defs>
+</svg>

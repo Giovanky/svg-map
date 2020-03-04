@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG test</title>
+</head>
+<body>
+    <svg class="icon">
+        <!-- iconmoon.io -->
+        <use xlink:href="img/sprite.svg#icon-g88"></use>
+    </svg>
+</body>
+
+<style>
+    body{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(35deg, white, lightgray);
+    }   
+    .icon{
+        height: 45vh;
+        transition: transform 6s linear;
+        fill: royalblue;
+        cursor: pointer;
+    }
+    .icon:hover{
+        transform: rotateY(360deg);
+    }
+</style>
+</html>
